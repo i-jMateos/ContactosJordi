@@ -14,7 +14,6 @@
 		7CCA08E2299C1901005C4735 /* ContactosJordi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7CCA08E0299C1901005C4735 /* ContactosJordi.xcdatamodeld */; };
 		7CCA08E4299C1903005C4735 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CCA08E3299C1903005C4735 /* Assets.xcassets */; };
 		7CCA08E7299C1903005C4735 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CCA08E5299C1903005C4735 /* LaunchScreen.storyboard */; };
-		7CCA08EF299C6070005C4735 /* Contactos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCA08EE299C6070005C4735 /* Contactos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		7CCA08E3299C1903005C4735 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CCA08E6299C1903005C4735 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7CCA08E8299C1903005C4735 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7CCA08EE299C6070005C4735 /* Contactos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contactos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +62,6 @@
 				7CCA08D9299C1901005C4735 /* SceneDelegate.swift */,
 				7CCA08DB299C1901005C4735 /* ViewController.swift */,
 				7CCA08DD299C1901005C4735 /* Main.storyboard */,
-				7CCA08EE299C6070005C4735 /* Contactos.swift */,
 				7CCA08E3299C1903005C4735 /* Assets.xcassets */,
 				7CCA08E5299C1903005C4735 /* LaunchScreen.storyboard */,
 				7CCA08E8299C1903005C4735 /* Info.plist */,
@@ -146,7 +143,6 @@
 			files = (
 				7CCA08DC299C1901005C4735 /* ViewController.swift in Sources */,
 				7CCA08E2299C1901005C4735 /* ContactosJordi.xcdatamodeld in Sources */,
-				7CCA08EF299C6070005C4735 /* Contactos.swift in Sources */,
 				7CCA08D8299C1901005C4735 /* AppDelegate.swift in Sources */,
 				7CCA08DA299C1901005C4735 /* SceneDelegate.swift in Sources */,
 			);
